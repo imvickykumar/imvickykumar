@@ -10,11 +10,15 @@
 
 > #### [`@imvickykumar999`](https://github.com/imvickykumar999),
 
-    automated Get Request via Postman, set to 50 times every hour.
+    Automated Get Request via Postman, set to 50 times every hour.
 
 ----------------------------------
 
 ## Also, Scheduled via `Dell Boomi`
+
+    Automated Get Request via Dell Boomi, set to run every minute.
+    
+------------------------------
 
     <svg xmlns="http://www.w3.org/2000/svg" width="129" height="20">
         <linearGradient id="b" x2="0" y2="100%">
@@ -40,5 +44,7 @@
 --------------------------------
 
 ## Also Scheduled via `Google AppScript` : [GitHub Counter Viewer `Hacks`](https://script.google.com/u/1/home/projects/1c4F9nYoN_jwYcRaRmb64SwCINefMCef49aELcohhd4UumeJBKLIJNmpB/edit)
+
+    Automated Get Request via AppScript, Deployed to run every minute.
 
 > [![image](https://user-images.githubusercontent.com/50515418/208924037-ad5155b2-5b17-450e-a644-164e84e8bcd2.png)](https://script.google.com/u/1/home/projects/1c4F9nYoN_jwYcRaRmb64SwCINefMCef49aELcohhd4UumeJBKLIJNmpB/executions)
