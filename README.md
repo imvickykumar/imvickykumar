@@ -36,3 +36,9 @@
             <text x="112" y="14">175</text>
         </g>
     </svg>
+
+--------------------------------
+
+## Also Scheduled via `Google AppScript` : [GitHub Counter Viewer `Hacks`](https://script.google.com/u/1/home/projects/1c4F9nYoN_jwYcRaRmb64SwCINefMCef49aELcohhd4UumeJBKLIJNmpB/edit)
+
+> ![image](https://user-images.githubusercontent.com/50515418/208924037-ad5155b2-5b17-450e-a644-164e84e8bcd2.png)
