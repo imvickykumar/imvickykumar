@@ -73,4 +73,4 @@
 
 - ## GitHub Counter Viewer Graph on [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1ghkJuD8AjBiP95tSqCWpQhHWGonkxS9YbH2nHWw5EpE/edit?usp=sharing)
 
-> [![image](https://user-images.githubusercontent.com/50515418/209121204-2b49506a-e53c-464f-92f4-794fbcb5db5a.png)](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRwaHati9JPeMFl9wbCnTNSr3dWo3NkkorO60OyQId3j-gOpxYGgDeYGp249xlkW_7BlDy_EYBNWVFl/pubchart?oid=2084833100&format=interactive)
+> [![image](https://user-images.githubusercontent.com/50515418/209123535-23675b6e-5908-48f4-ab84-e611d155810e.png)](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRwaHati9JPeMFl9wbCnTNSr3dWo3NkkorO60OyQId3j-gOpxYGgDeYGp249xlkW_7BlDy_EYBNWVFl/pubchart?oid=2084833100&format=interactive)
