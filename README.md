@@ -52,10 +52,10 @@
 
     Automated Get Request via AppScript, Deployed to run every minute.
 
-> [![image](https://user-images.githubusercontent.com/50515418/208924037-ad5155b2-5b17-450e-a644-164e84e8bcd2.png)](https://script.google.com/u/1/home/projects/1c4F9nYoN_jwYcRaRmb64SwCINefMCef49aELcohhd4UumeJBKLIJNmpB/triggers)
+> [![image](https://user-images.githubusercontent.com/50515418/209066562-320d777b-ac55-4281-8913-8ebd7e206d47.png)](https://script.google.com/u/1/home/projects/1c4F9nYoN_jwYcRaRmb64SwCINefMCef49aELcohhd4UumeJBKLIJNmpB/triggers)
 
 ----------------------------
 
     Need help to Automate Scheduling from other technologies too!
 
-> [![image](https://user-images.githubusercontent.com/50515418/208925676-bec8654a-677a-41d1-afe1-00626b808e6a.png)](https://script.google.com/u/1/home/projects/1c4F9nYoN_jwYcRaRmb64SwCINefMCef49aELcohhd4UumeJBKLIJNmpB/executions)
+> [![image](https://user-images.githubusercontent.com/50515418/209066414-29965b8c-3bbf-4c4b-bd46-a686b66d5016.png)](https://script.google.com/u/1/home/projects/1c4F9nYoN_jwYcRaRmb64SwCINefMCef49aELcohhd4UumeJBKLIJNmpB/executions)
