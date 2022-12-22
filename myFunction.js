@@ -1,6 +1,0 @@
-function myFunction() {
-  for (let i = 0; i < 650; i++) {
-      var response = UrlFetchApp.fetch("https://camo.githubusercontent.com/03f35bb2dd48bf7af86908e6832b8e4e038435463f5a041b6180a0103afb2f22/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d696d7669636b796b756d617226636f6c6f723d626c7565266c6162656c3d50524f46494c452b5649455753267374796c653d666c61742d737175617265");
-      Logger.log(response.getContentText());
-    }
-}
