@@ -67,10 +67,10 @@
 
     Need help to Automate Scheduling from other technologies too!
 
-> [![image](https://user-images.githubusercontent.com/50515418/209066414-29965b8c-3bbf-4c4b-bd46-a686b66d5016.png)](https://script.google.com/u/1/home/projects/1c4F9nYoN_jwYcRaRmb64SwCINefMCef49aELcohhd4UumeJBKLIJNmpB/executions)
+> [![image](https://user-images.githubusercontent.com/50515418/209121147-b5bdfa72-3ea3-4b35-b5cb-52bfba98d250.png)](https://script.google.com/u/1/home/projects/1c4F9nYoN_jwYcRaRmb64SwCINefMCef49aELcohhd4UumeJBKLIJNmpB/executions)
 
 ---------------------------
 
-- ## Time-Line on Firebase from Dell Boomi
+- ## GitHub Counter Viewer Graph on [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1ghkJuD8AjBiP95tSqCWpQhHWGonkxS9YbH2nHWw5EpE/edit?usp=sharing)
 
-> [![image](https://user-images.githubusercontent.com/50515418/209101441-478c1913-4e10-4fce-94ea-b25e5ae53da4.png)](https://neosalpha-999-default-rtdb.firebaseio.com/Track%20Views/Pair%20Timeline.json)
+> [![image](https://user-images.githubusercontent.com/50515418/209121204-2b49506a-e53c-464f-92f4-794fbcb5db5a.png)](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRwaHati9JPeMFl9wbCnTNSr3dWo3NkkorO60OyQId3j-gOpxYGgDeYGp249xlkW_7BlDy_EYBNWVFl/pubchart?oid=2084833100&format=interactive)
