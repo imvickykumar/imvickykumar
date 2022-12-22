@@ -11,9 +11,13 @@
 
 ---------------------------------------
 
-- ## `GitHub` View Counter : [Multi Collection on `Postman`](https://vickykumar999.postman.co/workspace/Project-Testings~a588c682-0ac8-4892-9084-42dd15f40085/collection/21969867-3e814614-d589-456e-9335-149e1e5a771b/schedule/1ed81371-5e24-4c50-8f57-df39473a7c5d)
+- ## GitHub Counter Viewer Graph on [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1ghkJuD8AjBiP95tSqCWpQhHWGonkxS9YbH2nHWw5EpE/edit?usp=sharing)
+
+> [![image](https://user-images.githubusercontent.com/50515418/209145439-75412ad9-4d20-4daf-a7eb-00dfdb7ee7fe.png)](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRwaHati9JPeMFl9wbCnTNSr3dWo3NkkorO60OyQId3j-gOpxYGgDeYGp249xlkW_7BlDy_EYBNWVFl/pubchart?oid=2084833100&format=interactive)
 
 --------------------------
+
+- ## `GitHub` View Counter : [Multi Collection on `Postman`](https://vickykumar999.postman.co/workspace/Project-Testings~a588c682-0ac8-4892-9084-42dd15f40085/collection/21969867-3e814614-d589-456e-9335-149e1e5a771b/schedule/1ed81371-5e24-4c50-8f57-df39473a7c5d)
 
     This Counter is hacked by ...
 
@@ -68,9 +72,3 @@
     Need help to Automate Scheduling from other technologies too!
 
 > [![image](https://user-images.githubusercontent.com/50515418/209121147-b5bdfa72-3ea3-4b35-b5cb-52bfba98d250.png)](https://script.google.com/u/1/home/projects/1c4F9nYoN_jwYcRaRmb64SwCINefMCef49aELcohhd4UumeJBKLIJNmpB/executions)
-
----------------------------
-
-- ## GitHub Counter Viewer Graph on [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1ghkJuD8AjBiP95tSqCWpQhHWGonkxS9YbH2nHWw5EpE/edit?usp=sharing)
-
-> [![image](https://user-images.githubusercontent.com/50515418/209123535-23675b6e-5908-48f4-ab84-e611d155810e.png)](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRwaHati9JPeMFl9wbCnTNSr3dWo3NkkorO60OyQId3j-gOpxYGgDeYGp249xlkW_7BlDy_EYBNWVFl/pubchart?oid=2084833100&format=interactive)
