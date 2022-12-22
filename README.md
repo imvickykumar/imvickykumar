@@ -1,8 +1,17 @@
 # !!! HACKS !!!
 
-## `GitHub` View Counter : [Multi Collection on `Postman`](https://vickykumar999.postman.co/workspace/Project-Testings~a588c682-0ac8-4892-9084-42dd15f40085/collection/21969867-3e814614-d589-456e-9335-149e1e5a771b/schedule/1ed81371-5e24-4c50-8f57-df39473a7c5d)
-
 > <p align="left"> <img src="https://komarev.com/ghpvc/?username=imvickykumar&color=blue&label=PROFILE+VIEWS&style=flat-square&color=orange" alt="imvickykumar999"/> </p>
+
+- ## Spamming [Server](https://github.com/antonkomarev/github-profile-views-counter#usage)
+
+    If you want to see big numbers in your profile, deploy a standalone solution to draw any views count you want
+    without spamming our server. Everybody knows that any counters could be faked.
+
+> A billion fake profile views doesn't make you a very popular person, it makes you a person with a billion number in the counter.
+
+---------------------------------------
+
+- ## `GitHub` View Counter : [Multi Collection on `Postman`](https://vickykumar999.postman.co/workspace/Project-Testings~a588c682-0ac8-4892-9084-42dd15f40085/collection/21969867-3e814614-d589-456e-9335-149e1e5a771b/schedule/1ed81371-5e24-4c50-8f57-df39473a7c5d)
 
 --------------------------
 
@@ -17,7 +26,7 @@
 
 ----------------------------------
 
-## Also, Scheduled via `Dell Boomi`
+- ## Also, Scheduled via `Dell Boomi`
 
     Automated Get Request via Dell Boomi, set to run every minute.
     
@@ -48,7 +57,7 @@
 
 --------------------------------
 
-## Also Scheduled via `Google AppScript` : [GitHub Counter Viewer `Hacks`](https://script.google.com/u/1/home/projects/1c4F9nYoN_jwYcRaRmb64SwCINefMCef49aELcohhd4UumeJBKLIJNmpB/edit)
+- ## Also Scheduled via `Google AppScript` : [GitHub Counter Viewer `Hacks`](https://script.google.com/u/1/home/projects/1c4F9nYoN_jwYcRaRmb64SwCINefMCef49aELcohhd4UumeJBKLIJNmpB/edit)
 
     Automated Get Request via AppScript, Deployed to run every minute.
 
