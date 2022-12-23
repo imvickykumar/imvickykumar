@@ -34,3 +34,8 @@
 - ## `Exception`: Service invoked too many times for one day.
 
 > ![image](https://user-images.githubusercontent.com/50515418/209279039-c631d996-eb78-4dbc-8534-b11afb55e2e3.png)
+
+----------------------------
+
+> ![image](https://user-images.githubusercontent.com/50515418/209314862-bac7b084-eeea-48d0-a7c0-7cf98c3b2a1d.png)
+
