@@ -39,3 +39,8 @@
 
 > ![image](https://user-images.githubusercontent.com/50515418/209314862-bac7b084-eeea-48d0-a7c0-7cf98c3b2a1d.png)
 
+----------------------------
+
+# Reset : Sheet Range [Link](https://docs.google.com/spreadsheets/d/1ghkJuD8AjBiP95tSqCWpQhHWGonkxS9YbH2nHWw5EpE/edit#gid=0&range=A1951:B1951)
+
+> ![ss](https://github.com/imvickykumar999/GitHub-Views-Counter-Hacks/blob/main/errors/Screenshot%202022-12-24%20184343.png?raw=true)
