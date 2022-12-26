@@ -21,7 +21,7 @@
 
 > ![image](https://user-images.githubusercontent.com/50515418/209318803-acb35ec1-3836-4226-936a-8983f1a81408.png)
 
-    This Counter is hacked by ...
+    This Counter is Scheduled by ...
 
 > #### [`@imvickykumar999`](https://github.com/imvickykumar999),
 
