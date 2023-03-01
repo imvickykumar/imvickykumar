@@ -17,7 +17,7 @@
 
 --------------------------
 
-- ## `GitHub` View Counter : [Multi Collection on `Postman`](https://vickykumar999.postman.co/workspace/Project-Testings~a588c682-0ac8-4892-9084-42dd15f40085/collection/21969867-3e814614-d589-456e-9335-149e1e5a771b/schedule/1ed81371-5e24-4c50-8f57-df39473a7c5d)
+- ## `GitHub` View Counter : [Multi Collection on `Postman`](https://documenter.getpostman.com/view/14965750/2s93CSoASh)
 
 > [![image](https://user-images.githubusercontent.com/50515418/209318803-acb35ec1-3836-4226-936a-8983f1a81408.png)](https://gold-trinity-363196.postman.co/workspace/GitHub-Views-Tracker~d48918f1-45f9-4583-b551-b9e5c7e535d1/collection/14965750-e78e9e9d-8a54-471e-b2ca-cb8049b40782/schedule/1ed81eb4-ce7f-4100-8ac4-41315e7bf4d1)
 
