@@ -79,5 +79,7 @@
 
 # Archieved Backup
 
-![image](https://user-images.githubusercontent.com/50515418/228517149-c6959a73-48a3-4aa4-b4a9-4e5006c34f33.png)
+![image](https://github.com/imvickykumar999/GitHub-Views-Counter-Hacks/assets/50515418/51280608-7808-4523-b035-b8a4e0773fb5)
+
+<!-- ![image](https://user-images.githubusercontent.com/50515418/228517149-c6959a73-48a3-4aa4-b4a9-4e5006c34f33.png) -->
 
